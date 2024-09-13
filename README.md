@@ -10,7 +10,7 @@
 - 🌱 **I’m currently learning**
     - Advanced Java Patterns, Data Structures & Algorithms
 
-- 📖 **Lifelong Learner**✍️
+- 📖 **Life long Learner**✍️
     - Embracing every opportunity to code, create, and conquer challenges. Whether it's a hackathon or a bootcamp, I’m always up for expanding my horizons.
 
 - 🌱 **Currently Working On**
